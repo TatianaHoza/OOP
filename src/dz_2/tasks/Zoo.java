@@ -1,23 +1,21 @@
 package dz_2.tasks;
 
-import javax.swing.text.DefaultEditorKit;
 import java.util.ArrayList;
 import java.util.List;
 
-import static sun.security.jca.ProviderList.remove;
-
 public abstract class Zoo implements Animal {
-    private List<Animal> animals;
+    private static List<Animal> animals;
 
     private void Zoo() {
         this.animals = (List<Animal>) new ArrayList<Animal>();
     }
 
-    public void addAnimal(Animal a){
+    public static void addAnimal(){
+        Animal a = null;
         animals.add(a);
     }
 
-    public void deleteAnimal(){
+    public static void deleteAnimal(){
 
 
 
@@ -33,7 +31,7 @@ public abstract class Zoo implements Animal {
         return index;
     }
 
- public String toString() {
+ public static String toString() {
      for (var Animal : animals) {
          System.out.println(animals);
 
