@@ -31,7 +31,7 @@ public abstract class Zoo implements Animal {
         return index;
     }
 
- public static String toString() {
+ public String toString() {
      for (var Animal : animals) {
          System.out.println(animals);
 
