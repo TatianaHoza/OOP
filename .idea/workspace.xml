@@ -4,26 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414d8829-7b75-4c8b-9ddf-f5734fe7e54c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/ChildrenGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Diapers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Eggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/HygieneItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Lemonade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Masks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/Nipple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/tasks/listOFGoods/ToiletPaper.java" afterDir="false" />
+    <list default="true" id="414d8829-7b75-4c8b-9ddf-f5734fe7e54c" name="Changes" comment="add dz_4">
+      <change afterPath="$PROJECT_DIR$/.idea/Course OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/ReportUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Repotable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/srp/CalcSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/srp/DrawFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/srp/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/FactoryOrdery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/Savable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/Saver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/OrderAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid6Isp1/src/solid/isp/PayableTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/dip/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/tasks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Persister.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/Persister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/HomeWork/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/srp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid1Srp1/src/solid/srp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid2Srp2/src/solid/srp/models/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/RightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid3Ocp1/src/solid/ocp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/OrderCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/OrderCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/OrderBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid5Lsp2/src/solid/lsp/OrderBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid6Isp1/src/solid/isp/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid6Isp1/src/solid/isp/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/dip/PrintReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/dip/PrintReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/dip/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lesson6_Solid/Solid7Dip/src/solid/dip/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_1/tasks/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_1/tasks/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_2/tasks/ConsolUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_2/tasks/ConsolUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +55,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OOP_Lesson6_Solid" />
   </component>
   <component name="ProjectId" id="2P79yqPykruKo8m52nGHAjzXFBA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,13 +71,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "D:/IT/GEEK BRAINS course/Course OOP/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT/GEEK BRAINS course/Course OOP&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IT/GEEK BRAINS course/Course OOP/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="solid.dip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Course OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.Main" />
+      <module name="Course OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +126,74 @@
       <option name="presentableId" value="Default" />
       <updated>1682797514337</updated>
     </task>
+    <task id="LOCAL-00001" summary="add files dz_1">
+      <created>1682800958004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682800958004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change dz_1">
+      <created>1682888604333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682888604333</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change dz_2, create Zoo">
+      <created>1683236343333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683236343333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change dz_2, create ConsoleUser">
+      <created>1683321238999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683321238999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change dz_2, create ConsoleUser">
+      <created>1683321261476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683321261476</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add dz_3">
+      <created>1683580988013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683580988013</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dz_5">
+      <created>1683794501778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683794501778</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add dz_4">
+      <created>1684010421809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684010421809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files dz_1" />
+    <MESSAGE value="change dz_1" />
+    <MESSAGE value="change dz_2, create Zoo" />
+    <MESSAGE value="change dz_2, create ConsoleUser" />
+    <MESSAGE value="add dz_3" />
+    <MESSAGE value="add dz_5" />
+    <MESSAGE value="add dz_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,7 +5,6 @@ public class Program {
         System.out.println(goods.toString());
             
         }
-        
 
     }
 
